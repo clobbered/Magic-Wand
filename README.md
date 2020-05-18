@@ -16,9 +16,9 @@ Version 1.0 - Released
 ## Authors
 * **Chris Liston** - *Initial work* - [clobbered](https://github.com/clobbered)
 
-## Acknowledgements
-* Thanks to [PurpleBooth](https://github.com/PurpleBooth) for the great ReadMe example!
-
 ## License
 
-This project is licensed under the 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgements
+* Thanks to [PurpleBooth](https://github.com/PurpleBooth) for the great ReadMe example!
