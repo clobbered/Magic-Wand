@@ -12,9 +12,9 @@ If you just want to add some barcodes and test the app all you need to do is sav
 ### Adding Barcodes
 1. Open barcodelist.txt in your editor of choice
 2. Add barcodes in the format "Stuff you want to display|barcodetoscan" without the quotes
-  1. Each line in the file represents a barcode
-  2. The easiest way to add a barcode is to scan it into the file after the pipe character
-  3. You can also create a barcode without a scanner. Consult your EHR documentation for EHR specific barcode formatting
+    1. Each line in the file represents a barcode
+    2. The easiest way to add a barcode is to scan it into the file after the pipe character
+    3. You can also create a barcode without a scanner. Consult your EHR documentation for EHR specific barcode formatting
 
 
 ## Customization
