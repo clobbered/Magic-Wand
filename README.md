@@ -4,6 +4,8 @@ Magic Wand is a barcode scanner utility for EHR training environments. At its co
 ## Quick Start
 If you just want to add some barcodes and test the app all you need to do is save the following files to a directory on your computer, add barcodes, and run. No installer is required and the executable can run from a network share. **The executable must be run from the same directory as the required files unless you customize the script with AutoHotKey**
 
+To use the tool, run the executable (or script from AutoHotKey). Select the active window to send a barcode to from the Select open application drop-menu. Then press the button that corresponds to the barcode you wish to send. The window you selected will activate and the barcode will send. If your sound is on you should hear a satisfying "beep" when the barcode is sent. After a brief delay the app window will be activated for you to send additional barcodes.
+
 ### Required Files
 * MagicWand.exe
 * MW.ico (because it's pretty)
