@@ -1,0 +1,5 @@
+Patient: Seinfeld, Jerry|\AC80105215\
+acetaminophen (TYLENOL) 325 mg oral tablet|\50580060002\
+aspirin 81 mg chewable tablet|\63739043401\
+DAPTOmycin (CUBICIN) IVPB|\JZ609850-12101.\
+ceftaroline fosamiL (TEFLARO) 600 mg in NS IVPB|\JZ609851-229014\
