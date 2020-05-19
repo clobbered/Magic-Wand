@@ -1,17 +1,27 @@
 # Magic-Wand
-Magic Wand is a barcode scanner utility for EHR training environments. At its core, the app is a compiled AutoHotKey GUI script. The source code is free to modify and distribute.
+Magic Wand is a barcode scanner utility for EHR training environments. At its core, the app is a compiled AutoHotKey GUI script.
 
-## Getting Started
-To tailor and run Magic Wand do the stuff
-1. This stuff
-2. That stuff
+## Quick Start
+If you just want to add some barcodes and test the app all you need to do is save the following files to a directory on your computer, add barcodes, and run.
+
+### Required Files
+* MagicWand.exe
+* MW.ico (because it's pretty)
+* barcodelist.txt
+
+### Adding Barcodes
+1. Open barcodelist.txt in your editor of choice
+2. Add barcodes in the format "Stuff you want to display|barcodetoscan" without the quotes
+⋅⋅1. Each line in the file represents a barcode
+⋅⋅2. The easiest way to add a barcode is to scan it into the file after the pipe character
+⋅⋅3. You can also create a barcode without a scanner. Consult your EHR documentation for EHR specific barcode formatting
+
+
+## Customization
 
 
 ## Versioning 
-
-Version 1.0 - Released 
-* Designed for EHR training scenarios where a barcode reader is not available
-* Training environment designer creates 
+* Version 1.0 - Released 
 
 ## Authors
 * **Chris Liston** - *Initial work* - [clobbered](https://github.com/clobbered)
