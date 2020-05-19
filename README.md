@@ -20,7 +20,7 @@ If you just want to add some barcodes and test the app all you need to do is sav
 To customize, you will need to edit MagicWand.ahk. See [AutoHotKey Documentation](https://www.autohotkey.com/docs/AutoHotkey.htm) for details. You can run the script on a computer with AutoHotKey installed or compile an executable with ahk2exe.
 
 ## Versioning 
-* Version 1.0 - Released 
+* Version 1.0 - Released 5.19.2020
 
 ## Authors
 * **Chris Liston** - *Initial work* - [clobbered](https://github.com/clobbered)
