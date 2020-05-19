@@ -2,7 +2,7 @@
 Magic Wand is a barcode scanner utility for EHR training environments. At its core, the app is a compiled AutoHotKey GUI script.
 
 ## Quick Start
-If you just want to add some barcodes and test the app all you need to do is save the following files to a directory on your computer, add barcodes, and run. No installer is required and the executable can run from a network share.
+If you just want to add some barcodes and test the app all you need to do is save the following files to a directory on your computer, add barcodes, and run. No installer is required and the executable can run from a network share. **The executable must be run from the same directory as the required files unless you customize the script with AutoHotKey**
 
 ### Required Files
 * MagicWand.exe
